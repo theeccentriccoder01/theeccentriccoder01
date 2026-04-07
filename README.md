@@ -116,8 +116,6 @@
 
 <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eccentriccoder01&theme=github_dark"/>
 
-<!-- <p align="center"><img src="/github-metrics.svg" alt="Metrics" width="700"></p> -->
-
 <table>
 <tr>
 <td width="34%">
