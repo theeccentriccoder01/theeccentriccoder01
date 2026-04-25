@@ -16,8 +16,8 @@
 <br>
 
 <div align="center">
-  <a href="https://github.com/eccentriccoder01">
-    <img src="https://komarev.com/ghpvc/?username=eccentriccoder01&label=Profile+Views&color=8338ec&labelColor=0d1117&style=for-the-badge&logo=eye&logoColor=white" alt="Profile Views" />
+  <a href="https://github.com/theeccentriccoder">
+    <img src="https://komarev.com/ghpvc/?username=theeccentriccoder&label=Profile+Views&color=8338ec&labelColor=0d1117&style=for-the-badge&logo=eye&logoColor=white" alt="Profile Views" />
   </a>
   &nbsp;
   <img src="https://img.shields.io/badge/Open%20to%20Opportunities-8338ec?style=for-the-badge&logo=checkmarx&logoColor=white&labelColor=0d1117" />
@@ -112,20 +112,20 @@
 
 <div align="center">
 
-![github-stats](https://stats.hyo.dev/api/github-stats?login=eccentriccoder01)
+![github-stats](https://stats.hyo.dev/api/github-stats?login=theeccentriccoder)
 
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eccentriccoder01&theme=github_dark"/>
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=theeccentriccoder&theme=github_dark"/>
 
 <table>
 <tr>
 <td width="34%">
-  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=eccentriccoder01&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=8b5cf6&text_color=c9d1d9"/>
+  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=theeccentriccoder&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=8b5cf6&text_color=c9d1d9"/>
 </td>
 <td width="33%">
-  <img src="https://streak-stats.demolab.com/?user=eccentriccoder01&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366f1&ring=8b5cf6&fire=f59e0b&currStreakLabel=c9d1d9" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=theeccentriccoder&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366f1&ring=8b5cf6&fire=f59e0b&currStreakLabel=c9d1d9" alt="GitHub Streak" />
 </td>
 <td width="33%">
-<img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=eccentriccoder01&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=c9d1d9"/>
+<img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=theeccentriccoder&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=c9d1d9"/>
 </td>
 </tr>
 </table>
@@ -152,13 +152,13 @@
 <table>
 <tr>
 <td width="33%">
-<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=eccentriccoder01&theme=github_dark&hide_border=true&layout=compact&langs_count=10&custom_title=💻%20Language%20Distribution"/>
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=theeccentriccoder&theme=github_dark&hide_border=true&layout=compact&langs_count=10&custom_title=💻%20Language%20Distribution"/>
 </td>
 <td width="33%">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=eccentriccoder01&theme=github_dark"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=theeccentriccoder&theme=github_dark"/>
 </td>
 <td width="33%">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=eccentriccoder01&theme=github_dark"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=theeccentriccoder&theme=github_dark"/>
 </td>
 </tr>
 </table>
@@ -167,7 +167,7 @@
 
 <div align="center">
   
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=eccentriccoder01&theme=tokyo-night&bg_color=0d1117&color=c9d1d9&line=6366f1&point=8b5cf6&area=true&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=theeccentriccoder&theme=tokyo-night&bg_color=0d1117&color=c9d1d9&line=6366f1&point=8b5cf6&area=true&hide_border=true" alt="Contribution Graph" />
   
 </div>
 
@@ -181,9 +181,9 @@
 
 <div align="center">
 
-<!-- ![github-trophies](https://stats.hyo.dev/api/github-trophies?login=eccentriccoder01) -->
+<!-- ![github-trophies](https://stats.hyo.dev/api/github-trophies?login=theeccentriccoder) -->
 
-<img src="https://github-profile-trophy-fast.vercel.app/?username=eccentriccoder01&theme=tokyonight&no-frame=true&row=1&column=8&margin-w=10&margin-h=10&no-bg=true"/>
+<img src="https://github-profile-trophy-fast.vercel.app/?username=theeccentriccoder&theme=tokyonight&no-frame=true&row=1&column=8&margin-w=10&margin-h=10&no-bg=true"/>
 
 ### 🎖️ Distinguished Collection 🎖️
 
@@ -1009,7 +1009,7 @@
     <td align="center" width="160" style="padding: 20px;">
       <img src="https://img.shields.io/badge/🏅-LEETCODE-FFD700?style=for-the-badge&labelColor=B8860B" width="110">
       <br>
-      <a href="https://leetcode.com/u/eccentriccoder01/">
+      <a href="https://leetcode.com/u/theeccentriccoder/">
       <img width="100" src="./Badges/50 Days LeetCode.gif" />
       </a>
       <img src="https://img.shields.io/badge/⭐-VIEW_CREDENTIAL-FFD700?style=flat&labelColor=B8860B" width="80">
@@ -1017,7 +1017,7 @@
     <td align="center" width="160" style="padding: 20px;">
       <img src="https://img.shields.io/badge/🏅-LEETCODE-FFD700?style=for-the-badge&labelColor=B8860B" width="110">
       <br>
-      <a href="https://leetcode.com/u/eccentriccoder01/">
+      <a href="https://leetcode.com/u/theeccentriccoder/">
       <img width="100" src="./Badges/DCC January 2026 LeetCode.gif" />
       </a>
       <img src="https://img.shields.io/badge/⭐-VIEW_CREDENTIAL-FFD700?style=flat&labelColor=B8860B" width="80">
@@ -1025,7 +1025,7 @@
     <td align="center" width="160" style="padding: 20px;">
       <img src="https://img.shields.io/badge/🏅-LEETCODE-FFD700?style=for-the-badge&labelColor=B8860B" width="110">
       <br>
-      <a href="https://leetcode.com/u/eccentriccoder01/">
+      <a href="https://leetcode.com/u/theeccentriccoder/">
       <img width="100" src="./Badges/DCC December 2025 LeetCode.gif" />
       </a>
       <img src="https://img.shields.io/badge/⭐-VIEW_CREDENTIAL-FFD700?style=flat&labelColor=B8860B" width="80">
@@ -1165,7 +1165,7 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
-[![An image of @eccentriccoder01's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/eccentriccoder01)](https://holopin.io/@eccentriccoder01)
+[![An image of @theeccentriccoder's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/theeccentriccoder)](https://holopin.io/@theeccentriccoder)
 
 <!-- ╔═══════════════════════════════════════════════════════════════╗ -->
 <!-- ║                   OPEN SOURCE & PROGRAMS                      ║ -->
@@ -1257,3 +1257,4 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontColor=fff&animation=twinkling"/>
   
 </div>
+
